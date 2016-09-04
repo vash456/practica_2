@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Area de Figuras</string>
+    <string name="mensaje">Seleccione la figura a la que desea calcular el area:</string>
+    <string name="cuadro">Cuadrado</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="calcular">Calcular</string>
+    <string name="area">Area</string>
+</resources>

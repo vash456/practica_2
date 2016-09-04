@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="internet">Internet</string>
+    <string name="leer">Leer</string>
+    <string name="deportes">Deportes</string>
+    <string name="otro">Otro</string>
+    <string-array name="ciudades_array">
+        <item></item>
+        <item>Medellin</item>
+        <item>Caldas</item>
+        <item>Envigado</item>
+        <item>La Estrella</item>
+        <item>Bello</item>
+        <item>Itagui</item>
+        <item>Sabaneta</item>
+    </string-array>
+</resources>

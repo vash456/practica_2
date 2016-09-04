@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Primer_num">Primer Numero</string>
+    <string name="Segundo_num">Segundo Numero</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+    <string name="resul">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="operacion">Operacion</string>
+    <string name="action_settings">ac_setting</string>
+
+</resources>
